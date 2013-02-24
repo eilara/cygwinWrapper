@@ -8,7 +8,7 @@ windows program, batch files, or DOS console.
 
 You need to handle:
 
-    - quoting and escaping, DOS issue are particularly interesting
+    - quoting and escaping, DOS issues are particularly interesting
     - path translation, from DOS paths using cygpath utility
     - biolerplate for calling shell, etc.
 
